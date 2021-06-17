@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "config.balanceador.test",
+  "type": "java.lang.String",
+  "description": "Una prueba de balanceadores 'config.balanceador.test'"
+}]}
